@@ -1,0 +1,25 @@
+_repo: Conscience-Volume-4_3989
+creator:
+  author:
+    agent_name: Malot, Hector
+    alias: Malot, Hector-Henri
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '1350'
+    url: http://www.gutenberg.org/2009/agents/1350
+    wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Physicians -- Fiction'
+title: Conscience — Volume 4
+url: http://www.gutenberg.org/ebooks/3989
